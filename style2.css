@@ -1,0 +1,108 @@
+*{
+    margin:0px !important;
+    padding: 0px !important;
+    text-align: center !important;
+    
+}
+
+.header{
+    background-color:RoyalBlue;
+    min-height: 30px !important;
+   display: flex !important;
+   flex-direction: row !important;
+   flex-wrap: no-wrap !important;
+   max-width: 1500px!important;
+}
+ marquee{
+     color:lightgreen;
+     background-color: royalblue;
+     font-size: 15px;
+     height: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+ 
+
+h3{
+    text-align: center !important;
+}
+
+img{
+    text-align: center;
+}
+
+p{
+    text-align: justify !important;
+    position: relative !important;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    margin-bottom: 20px !important;
+    margin-top: 30px !important;
+    color: grey;
+}
+.flex-container{
+    display: flex !important;
+    flex-direction: row !important;
+    background-color: royalblue !important;
+ margin-top: 50px !important;
+   justify-content: center !important;
+   text-align: justify !important;
+   flex-wrap: wrap !important;
+   min-height: 300px !important;
+}
+
+.container{
+    display: flex !important; 
+    flex-direction: row !important
+}
+
+.bg-color{
+    background-color: #FBFAF6;
+
+}
+
+.flex-container4{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+   text-align: justify !important;
+   flex-wrap: wrap !important;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+ .marquee1{
+color:#BDBDBD !important;
+background-color:white !important;
+width: 75% !important;
+min-height: 50px !important;
+padding-left: 12px !important;
+padding-right: 15px !important;
+float:right !important;
+ }
+
+ #green {background-color:green;}
+#black {background-color:black;}
+
+
+.icons{padding-right:20px !important;}
+
+.HEP{border: 1px solid lightgrey !important;background-color:#FAFAFA !important;}
+.house{border: 1px solid lightgrey !important;background-color:#FAFAFA !important;}
+.IT{border: 1px solid lightgrey !important;background-color:#FAFAFA !important;}
+.tharap{border: 1px solid lightgrey !important;background-color:#FAFAFA !important;}
+
+.button{
+    font-size: 16px !important;
+
+
+}
+ .online { margin:40px !important; padding:20px !important; }
+.welfare{ margin:40px !important; padding:20px !important; }
+.medical{ margin:40px !important; padding:20px !important; } 
+  
+.dastarkhuwan{margin:40px !important; padding:10px !important;}
+.roplant{margin:40px !important; padding:20px !important;}
+.education{margin:40px !important; padding:20px !important;}
